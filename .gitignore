@@ -1,0 +1,11 @@
+venv/
+venv/*
+./venv/*
+
+venv_crud/*
+/venv_crud/
+/venv_crud/*
+
+*/__pycache__
+
+*.sqlite3
